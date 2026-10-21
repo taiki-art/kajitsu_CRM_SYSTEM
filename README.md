@@ -1,0 +1,2 @@
+# kajitsu_CRM_SYSTEM
+KAJITSUの顧客管理システム構築におけるリポジトリ
